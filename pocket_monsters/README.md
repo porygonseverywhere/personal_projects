@@ -1,1 +1,1 @@
-Ispum Lorem
+Various Projects surrounding the Pokebase API.
