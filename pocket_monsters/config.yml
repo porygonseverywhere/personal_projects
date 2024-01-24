@@ -1,0 +1,6 @@
+default:
+    DB_NAME: "postgres"
+    DB_USER: "postgres"
+    DB_PASS: "p0k3_m@$t3r"
+    DB_HOST: "localhost"
+    DB_PORT: "5432"
