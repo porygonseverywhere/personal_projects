@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm J Bradley</h1>
 <h3 align="center">Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **DBeaver, dbt, and trying new Python libraries I don't get to use too often at work (09/23).**
+- 🌱 I’m currently learning **DBeaver, PostgreSQL, and trying new Python libraries I don't get to use too often at work (06/24).**
 
 - 📫 How to reach me **jrnbradley@gmail.com**
 
