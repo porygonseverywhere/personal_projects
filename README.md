@@ -7,7 +7,7 @@
 
 <h3 align="left">What am I doing here:</h3>
 <p align="left">
-- I've been a Data Analyst for some time now but I'm trying to move towards the realm of Data Engineering. I enjoy all the datums, and I especially like to solve fun puzzles. So I figured it's about time I make a Github profile.
+- I've been involved with all things Data for some time now but I'm trying to elevate my skills, understanding, and practices. I enjoy all the datums, and I especially like to solve fun puzzles. So I figured it's about time I make a Github profile.
   Feel free to check out these projects I'm working on!
 </p>
 
